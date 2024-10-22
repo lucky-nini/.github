@@ -5,7 +5,7 @@
 | Name | Repository |
 | ------------- | ----------------- |
 | 🐯 YouJung Oh |  |
-| 🦈 Hyunsoo Kwon |  |
+| 🦈 Hyunsoo Kwon | [`hyunsoo`](https://github.com/lucky-nini/hyunsoo) |
 
 **📜 Rules**
 ----------------------------------------
